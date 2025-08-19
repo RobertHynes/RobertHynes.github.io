@@ -79,8 +79,8 @@ nav a {
 
 /* Change the link color to #111 (black) on hover */
 .nav-right li a:hover {
-  background-color: thistle;
-  color: darkred;
+  background-color: navy;
+  color: white;
 }
 
 
